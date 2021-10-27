@@ -9,12 +9,14 @@ You will create a bank account application that will let you create bank account
 ```
 // CLIENT
 npx create-react-app client
-cd my-app
+cd client
 npm start
 ```
 ```
 // SERVER
 express server
+cd server
+npm run start
 ```
 > NOTE: You may have to use npm install to aquire needed packages
 
